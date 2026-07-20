@@ -1,0 +1,28 @@
+credit card bank details
+admin admin
+JP Morgan
+Please wire the funds to ABA Routing Number 111000025 for processing
+The NDC 12345-6789-01 is approved
+National Drug Code: 0002-8215-01
+
+John Smith, born on 12/06/1984 (DOB),
+provided his bank account number 12345678,
+credit card 4539 4512 0398 7356,
+and tax file number 123 456 789 for his individual tax return
+
+https://cisco.sharepoint.com/:x:/s/wdse/IQBfaULKsK7-QYrFUsLUVxPtAar82pOSnA1Hc5NXKi75EbQ?e=UKnIQh
+
+https://cisco.sharepoint.com/:x:/r/sites/wdse/_layouts/15/Doc.aspx?sourcedoc=%7B0B5045DC-ADF2-4FEA-9723-64157497E63A%7D&file=Quarantine_template_test_plan.xlsx&action=default&mobileredirect=true
+
+
+sfcc- raised 8 bugs
+ask about - tombstone template and unclassified
+will connect with Rahul on integration tests- installed cursor
+one test case for resources need to check with Mohamed
+
+https://dashboard.int.sse.cisco.com/org/8257905/admin/authentication
+
+https://cisco.sharepoint.com/:x:/r/sites/wdse/_layouts/15/Doc.aspx?sourcedoc=%7BF8DCC26E-04F9-4112-AB90-19E4B8A13CE5%7D&file=SFCC%20Test%20plan.xlsx&action=default&mobileredirect=true
+
+https://zyul-001.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/default;app=__bm_merchant/ViewChannelCatalog_52-Browse?CatalogCategoryID=1234
+category - https://zyul-001.dx.commercecloud.salesforce.com/?orgId=f_ecom_zyul_001&objectType=category&objectId=root
